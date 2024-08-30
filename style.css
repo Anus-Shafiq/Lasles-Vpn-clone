@@ -1,0 +1,35 @@
+.card-plan {
+  height: 725px !important;
+}
+
+.listdiv {
+  height: 150px !important;
+}
+
+.chanelimg1 {
+  width: 200px;
+}
+
+.name {
+  width: max-content;
+  height: max-content;
+}
+
+.cardimg {
+  width: max-content;
+}
+.star {
+  width: max-content;
+}
+
+.review-card {
+  height: 250px;
+}
+
+.subscribecontent {
+  width: max-content;
+}
+
+.btndiv {
+  width: max-content;
+}
